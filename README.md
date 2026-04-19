@@ -1,5 +1,12 @@
 # Pipeline Monitor
 
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat&logo=phoenixframework&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 A real-time AI agent pipeline monitoring platform. Define pipelines with sequential steps, trigger runs, and watch execution stream live in the browser.
 
 Built as a portfolio project showcasing **Hexagonal Architecture** and **Spec-Driven Design** with Elixir, Next.js 16, and PostgreSQL.
